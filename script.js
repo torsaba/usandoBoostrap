@@ -1,8 +1,7 @@
 document.addEventListener("DOMContentLoaded", function () {
     const textos = [
-        "Texto 1: Este es el primer texto aleatorio.",
-        "Texto 2: Segundo texto aleatorio para el carrusel.",
-        "Texto 3: Tercer texto aleatorio que aparecerá.",
+        "Praesent convallis sed nisi quis posuere.",
+        "...aliquam elementum molestie lacus a tristique.",
     ];
 
     const textCarousel = document.getElementById("text-carousel");
